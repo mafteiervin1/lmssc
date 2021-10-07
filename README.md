@@ -4,6 +4,8 @@ build the project: mvn clean install
 
 change link to be crawled: change value for WIKI_LINK from Constants
 
+to run the project, execute main method from Controller
+
 Computational lexicology, morphology and syntax
 Laboratory #2 – Smart Tokenizer
 Given a character sequence and a defined document unit, tokenization is the task of chopping
